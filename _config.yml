@@ -2,9 +2,9 @@ title: Marc Faber # your name (or website title) here
 logo: "/images/dummy.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Software Developer<br>
-  <br>
-  <br>
+  Software Developer at<br>
+  GenoData EDV-Systeme GmbH,<br>
+  Germany<br>
   <a href="https://www.xing.com/profile/Marc_Faber11">View My XING Profile</a> 
   
 theme: jekyll-theme-minimal
