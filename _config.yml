@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Software Developer at<br>
   GenoData EDV-Systeme GmbH,<br>
   Germany<br>
+  <br>
   <a href="https://www.xing.com/profile/Marc_Faber11">View My XING Profile</a> 
-  
 theme: jekyll-theme-minimal
 google_analytics: UA-6549905-1 # your Google Analytics tracking ID here
