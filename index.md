@@ -6,7 +6,7 @@
 
 ### Projects
 
-[mermaid - Generation of diagrams and flowcharts from markdown-like text](https://mermaid-js.github.io/mermaid/#/){:target="_blank"}
+[mermaid - Generation of diagrams and flowcharts from text using a markdown-like syntax](https://mermaid-js.github.io/mermaid/#/){:target="_blank"}
 <img src="images/mermaid_thumbnail.png?raw=true"/>
 Ever wanted to simplify documentation and avoid heavy tools like Visio when explaining your code? This is why mermaid was born, a simple markdown-like script language for generating charts from text via javascript. **Mermaid was nominated and won the JS Open Source Awards (2019) in the category "The most exciting use of technology".**<br>
 <br>
