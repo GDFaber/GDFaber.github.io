@@ -6,6 +6,12 @@
 
 ### Projects
 
+[GenoData Webreporting - Visualisation of dashboards and pivot tables](https://mermaid-js.github.io/mermaid/#/){:target="_blank"}
+<img src="images/webreporting_thumbnail.png?raw=true"/>
+I work as a software developer at GenoData EDV-Systeme GmbH and belong to the reporting and business intelligence team. My main task is to develop and expand data visualisation for the web.<br>
+<br>
+I am glad to be a team member and a part of this beautiful project since March 2009.<br>
+
 [mermaid - Generation of diagrams and flowcharts from text using a markdown-like syntax](https://mermaid-js.github.io/mermaid/#/){:target="_blank"}
 <img src="images/mermaid_thumbnail.png?raw=true"/>
 Ever wanted to simplify documentation and avoid heavy tools like Visio when explaining your code? This is why mermaid was born, a simple markdown-like script language for generating charts from text via javascript. **Mermaid was nominated and won the JS Open Source Awards (2019) in the category "The most exciting use of technology".**<br>
