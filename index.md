@@ -4,8 +4,8 @@
 
 ### Projects
 
-[GenoData Webreporting - Visualisation of dashboards and pivot tables](https://www.genodata.de/assets/video-reporting-mit-gdixweb/Reporting_mit_GDixWEB.webm){:target="_blank"}
-[<img src="images/webreporting_thumbnail.png?raw=true"/>](https://www.genodata.de/assets/video-reporting-mit-gdixweb/Reporting_mit_GDixWEB.webm){:target="_blank"}
+[GenoData Webreporting - Visualisation of dashboards and pivot tables](https://www.genodata.de){:target="_blank"}
+[<img src="images/webreporting_thumbnail.png?raw=true"/>](https://www.genodata.de){:target="_blank"}
 I work as a software developer at GenoData EDV-Systeme GmbH and belong to the reporting and business intelligence team. My main task is to develop and expand data visualisation for the web.<br>
 <br>
 I am glad to be a team member and a part of this beautiful project since 2009.<br>
