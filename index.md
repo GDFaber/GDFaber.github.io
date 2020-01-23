@@ -1,8 +1,8 @@
 ## Data is beautiful
 
----
-
 ### Projects
+
+---
 
 [GenoData Web Reporting - Visualisation of dashboards and pivot tables](https://www.genodata.de){:target="_blank"}
 [<img src="images/webreporting_thumbnail.png?raw=true"/>](https://www.genodata.de){:target="_blank"}
