@@ -14,7 +14,7 @@ I am glad to be a team member and part of this beautiful project since 2009.<br>
 
 [C3.js - D3-based reusable chart library](https://mermaid-js.github.io/mermaid/#/){:target="_blank"}
 [<img src="images/c3_thumbnail.png?raw=true"/>](https://c3js.org/){:target="_blank"}
-C3 makes it easy to generate D3-based charts by wrapping the code required to construct the entire chart. The chart library provides a variety of chart types as well as APIs and callbacks to access the state of the chart and update it even after it is rendered. C3 enables deeper integration of charts into your application.<br>
+C3 makes it easy to generate D3-based charts by wrapping the code required to construct the entire chart. The library provides a variety of chart types as well as APIs and callbacks to access the state of the chart and update it even after it is rendered. C3 enables deeper integration of charts into your application.<br>
 <br>
 I am glad to be a team member and part of this beautiful project since 2020.<br>
 
